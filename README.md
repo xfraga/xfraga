@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Jorge García Carrasco 👋
 
-<!--
-**xfraga/xfraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | Project Manager | Tech Entrepreneur
 
-Here are some ideas to get you started:
+🌍 Based in Madrid, Spain | Previously London & Berlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+Passionate full-stack developer and project manager with expertise in building scalable web applications and leading agile teams. Currently focused on creating innovative tech solutions and contributing to the open-source community.
+
+- 🔭 Currently working on **[Onlitions.io](https://onlitions.io)** - A community tool-sharing platform
+- 🌱 Learning **AI/ML, Azure, AWS, and Web3 technologies**
+- 💼 Open to remote opportunities in Europe
+- 🎯 Specializing in full-stack development and agile project management
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+```
+JavaScript/TypeScript  React  Ruby on Rails  Python  SQL
+```
+
+**Tools & Technologies:**
+```
+Docker  AWS  Google Cloud  N8N  Linux/Ubuntu  Git  Agile/Scrum
+```
+
+**Development:**
+```
+Full-Stack Development  API Integration  DevOps  Database Design
+Automation  CI/CD  Project Management
+```
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xfraga&show_icons=true&theme=dark&hide_border=true)
+
+### 🔥 Featured Projects
+
+#### [Homeless Report](https://github.com/xfraga/homeless-report)
+Community-driven reporting system to help homeless individuals - JavaScript
+
+#### [Nomad Meetup](https://github.com/xfraga/Nomad-Meetup)
+Platform connecting digital nomads for meetups and collaboration - JavaScript
+
+#### [Onlitions](https://github.com/xfraga/onlitions)
+Community tool-sharing and collaboration platform
+
+### 📫 Get in Touch
+
+- 📧 Email: [jorgegarciacarrasco@gmail.com](mailto:jorgegarciacarrasco@gmail.com)
+- 💼 LinkedIn: Connect with me on LinkedIn
+- 🌐 Website: [onlitions.io](https://onlitions.io)
+
+### 💡 Currently Exploring
+
+- 🤖 AI Agents and Agentic AI
+- ⛓️ Blockchain & Web3
+- ☁️ Cloud Architecture (Azure & AWS)
+- 🎨 Advanced React Optimization
+
+---
+
+💬 Open to collaboration on innovative projects and open-source contributions!
